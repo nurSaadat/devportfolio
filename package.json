@@ -14,7 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Saadat Nursultan",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
